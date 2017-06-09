@@ -7,6 +7,7 @@ public class Ta {
 	public static void main(String[] args) {
 		Ta ta = new Ta();
 		System.out.println(ta);
+		System.out.println("shiyan");
 		
 	}
 }
